@@ -1,1 +1,1 @@
-# project-_Airbnb
+Airbnb is a global accommodation service that can be rented out in major cities. It is run by Airbnb Inc. and accessible via their mobile apps and website. The current dataset contains listings and owner and customer reviews for airbnb houses in ten major global cities. will examine the trend in the dataset and ultimately display it. Importing the dataset should come first, then come data cleansing and visualization.
